@@ -60,10 +60,10 @@ O objetivo desta atividade é desenvolver uma calculadora chamada "Piquenique Ce
 
 ## Paginas
 
-Documentos HTML JS**Index** foi feita pelas duas alunas, o Professor *Murilo Flesch*.
+Documentos HTML JS **Index** foi feita pelas duas alunas, coma ajuda do Professor *Murilo Flesch*.
 
-Documentos HTML CSS JS **Segunda-Pagina** Feita inteiramente pela aluna *Vanessa*.
+Documentos HTML CSS JS  **Segunda-Pagina** Feita inteiramente pela aluna *Vanessa*.
 
-Documentos HTML CSS JS **Terceira-Pagina** Feita inteiramente pela aluna *Ana Carolina*.
+Documentos HTML CSS JS  **Terceira-Pagina** Feita inteiramente pela aluna *Ana Carolina*.
 
 Modo Claro e Escuro feitos pelas alunas *Ana Carolina* e *Vanessa*
